@@ -1,0 +1,19 @@
+#
+# openLilyLib/grob-tools configuration
+#
+
+name: grob-tools
+display-name: Grob Tools
+short-description: Helper functions to deal with Grobs (GRaphical OBjects)
+description: <
+  This package makes it easier to deal with Grob information in callback
+  functions by boiling down common patterns to easier-to-handle functions.
+  >
+  oll-core: 0.5.0
+maintainers: [
+  Urs Liska <ul@openlilylib.org>
+  ]
+version: 0.0.1
+license: GPL3
+website: https://github.com/openlilylib/grob-tools
+repository: https://github.com/openlilylib/grob-tools.git
